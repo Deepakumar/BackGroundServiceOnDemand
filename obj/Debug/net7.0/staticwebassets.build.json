@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fn9iETl9RQbDAylG6x9VC/WKuGoJH5L1j9wbh4VqtmU=",
+  "Source": "BackGroundServiceOnDemand",
+  "BasePath": "_content/BackGroundServiceOnDemand",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
